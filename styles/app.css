@@ -1,0 +1,13 @@
+body {
+  background: rgb(1, 131, 77);
+}
+a,
+body {
+  color: white;
+}
+a {
+  font-size: 20px;
+}
+h1, .cat-image, .contact-info {
+  text-align: center;
+}
