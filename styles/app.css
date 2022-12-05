@@ -1,5 +1,5 @@
 body {
-  background: rgb(1, 131, 77);
+  background: rgb(121, 90, 31);
 }
 a,
 body {
@@ -8,6 +8,8 @@ body {
 a {
   font-size: 20px;
 }
-h1, .cat-image, .contact-info {
+h1,
+.croissant-image,
+.contact-info {
   text-align: center;
 }
